@@ -1,0 +1,9 @@
+Boîte 1 contient les objets : 1 3 14 
+Boîte 2 contient les objets : 2 5 
+Boîte 3 contient les objets : 4 9 
+Boîte 4 contient les objets : 6 7 
+Boîte 5 contient les objets : 8 11 
+Boîte 6 contient les objets : 10 12 
+Boîte 7 contient les objets : 13 16 
+Boîte 8 contient les objets : 15 17 
+Boîte 9 contient les objets : 18 19 20 

@@ -1,0 +1,17 @@
+Boîte 2 contient les objets : 1 28 
+Boîte 3 contient les objets : 2 7 
+Boîte 4 contient les objets : 19 25 38 
+Boîte 5 contient les objets : 16 22 
+Boîte 6 contient les objets : 18 26 
+Boîte 7 contient les objets : 14 21 
+Boîte 8 contient les objets : 11 13 20 
+Boîte 9 contient les objets : 6 36 
+Boîte 10 contient les objets : 9 15 31 
+Boîte 11 contient les objets : 3 17 
+Boîte 12 contient les objets : 24 37 
+Boîte 13 contient les objets : 5 8 30 
+Boîte 14 contient les objets : 10 27 
+Boîte 24 contient les objets : 12 32 
+Boîte 26 contient les objets : 29 33 40 
+Boîte 30 contient les objets : 23 35 
+Boîte 40 contient les objets : 4 34 39 
